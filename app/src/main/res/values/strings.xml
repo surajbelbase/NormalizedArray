@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find Normalized Array</string>
+    <string name="FirstTextView">Enter the size of Array</string>
+    <string name="FirstEditHint">enter size</string>
+    <string name="EnterButton">Enter</string>
+    <string name="limit">0  -  255</string>
+    <string name="SecondLabel">Enter the array elements</string>
+    <string name="BtnArray1">Array1</string>
+    <string name="BtnArray2">Array2</string>
+    <string name="BtnCompute">Compute</string>
+    <string name="InitialFactor">Factor is :</string>
+    <string name="factorDot">_______</string>
+    <string name="NormalizedArray">Normalized Array :</string>
+    <string name="HeaderText">Normalized Array Calculator</string>
+</resources>
